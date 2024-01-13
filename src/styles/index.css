@@ -15,8 +15,6 @@ main {
 
 #container {
   background-color: hsl(0, 0%, 10%); 
-  width: 200px;
-  height: 450px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
